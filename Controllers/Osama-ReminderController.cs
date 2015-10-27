@@ -8,9 +8,9 @@ namespace ProjectFood.Controllers
             return View();
         }
 
-        public void AddFood(string name, int numTimes = 1)
+        public void DeleteFood(string name, int numTimes = 1)
         {
-            // Something that can add a food
+            // Something that can delete a food
         }
 
     }
